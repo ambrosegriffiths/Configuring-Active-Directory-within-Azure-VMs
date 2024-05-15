@@ -25,6 +25,22 @@
 
 <p>This is used to connect a Remote desktop control in order to run Active-Directory</p>
 
+<h2>Created DC1 and Client1 to connect RDC</h2>
+
+![image](https://github.com/ambrosegriffiths/Configuring-Active-Directory-within-Azure-VMs/assets/167513668/95c26d51-d80f-4916-9ec6-46e9c8a323bb)
+
+<h2>Ping DC1 </h2>
+
+![image](https://github.com/ambrosegriffiths/Configuring-Active-Directory-within-Azure-VMs/assets/167513668/d8436677-f1d7-4900-8b38-3db3c4b6b467)
+
+
+<h3>We use Client 1 public Ip adress to connect Remote desktop connection. We will also use the DC1 private ip add to ping DC1 </h3>
+
+<h2>how ping is working out now</h2>
+
+![image](https://github.com/ambrosegriffiths/Configuring-Active-Directory-within-Azure-VMs/assets/167513668/f2120751-c6ac-45b7-be14-764f92e0aa80)
+
+
 <h3>Deployment and Configuration Steps</h3>
 
 <p>
