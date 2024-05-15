@@ -60,5 +60,10 @@
 
 ![image](https://github.com/ambrosegriffiths/Configuring-Active-Directory-within-Azure-VMs/assets/167513668/acc86a0e-876f-4526-888e-7744d64e5e9e)
 
+<h2>Creating multiple users accounts</h2
+                                      
+![image](https://github.com/ambrosegriffiths/Configuring-Active-Directory-within-Azure-VMs/assets/167513668/e7379a20-572c-4021-aafa-0880262d8f68)
+
+
 
 
