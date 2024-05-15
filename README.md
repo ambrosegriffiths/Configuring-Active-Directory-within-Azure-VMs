@@ -40,29 +40,25 @@
 
 ![image](https://github.com/ambrosegriffiths/Configuring-Active-Directory-within-Azure-VMs/assets/167513668/f2120751-c6ac-45b7-be14-764f92e0aa80)
 
+<h2>Installing Active-Directory in DC1</h2>
 
-<h3>Deployment and Configuration Steps</h3>
+![image](https://github.com/ambrosegriffiths/Configuring-Active-Directory-within-Azure-VMs/assets/167513668/e67367b0-910a-43ef-8f2c-73b222806c79)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<h2>Deployed new users in Active-Directory</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/ambrosegriffiths/Configuring-Active-Directory-within-Azure-VMs/assets/167513668/071d4baa-a819-4d73-bd9b-ffbb6886df1f)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<h2>Creats user in Admins</h2>
+
+![image](https://github.com/ambrosegriffiths/Configuring-Active-Directory-within-Azure-VMs/assets/167513668/b03804ea-47f0-471a-a2fc-323be71a6713)
+
+<h2>Log into our Client 1 account with our user Jane_admin</h2>
+
+![image](https://github.com/ambrosegriffiths/Configuring-Active-Directory-within-Azure-VMs/assets/167513668/1a500697-408c-4b1c-bd49-197685a594db)
+
+<h2>Allowing all users to be able to log in</h2>
+
+![image](https://github.com/ambrosegriffiths/Configuring-Active-Directory-within-Azure-VMs/assets/167513668/acc86a0e-876f-4526-888e-7744d64e5e9e)
+
+
+
